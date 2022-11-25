@@ -51,6 +51,7 @@ For PICO/Accelerometer we will be using
 <br>
 (PICO)3V3:VCC(Accelerometer)
 
+<br>
 <b>
 Master: Pico
 <br>
