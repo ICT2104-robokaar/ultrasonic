@@ -1,4 +1,4 @@
-# ultrasonic - MSP432/Ultrasonic HC-SR04
+# Ultrasonic - MSP432/Ultrasonic HC-SR04
 
 <h2>Folder/Files:</h2>
 <br>
