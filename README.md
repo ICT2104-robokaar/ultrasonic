@@ -12,6 +12,9 @@
 <h2>Description:</h2>
 Our team uses <b>3 ultrasonics</b>. Left , Front and Right of the robot car <br>
 Each Ultrasonic Sensor has <b>4 pins</b>. Vcc, GND, Trigger and Echo pins. <br>
+The sensor gets triggered by supplying 10 microsecond wide pulse. <br>
+The sensor generates a pulse from the echo pin with a period proportional to the distance of the obstacle from sensor. <br>
+MSP432 board is connected to a computer via USB <br>
 <h4>Ultrasonic one (Left side of the robot car)</h4>
 vcc:3.3v
 Trigger: 3.6
@@ -30,9 +33,7 @@ Trigger: 4.6
 Echo: 4.7
 GND:GND 
 <br>
-The sensor gets triggered by supplying 10 microsecond wide pulse. <br>
-The sensor generates a pulse from the echo pin with a period proportional to the distance of the obstacle from sensor. <br>
-MSP432 board is connected to a computer via USB <br>
+
 
 # Accelerometer - Rasberry Pico/Accelerometer MPU6050 I2C
 
